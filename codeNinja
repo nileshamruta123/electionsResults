@@ -1,0 +1,14 @@
+
+ranorex.validate.areEqual()
+if
+else
+elseif
+
+
+
+
+
+
+
+
+driver.quite();
